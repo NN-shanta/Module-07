@@ -1,0 +1,28 @@
+.box{
+    height: 50px;
+    width: 200px;
+    color: white;
+    padding: 30px 10px;
+
+}
+#box-color1{
+    background-color: violet;
+}
+#box-color2{
+    background-color:chocolate;
+    /* visibility: visible; */
+}
+#box-color3{
+    background-color:cadetblue;
+    /* visibility: hidden;
+    display: none; */
+}
+#box-color4{
+    background-color: crimson;
+    /* display: none; */
+    display: block;
+}
+#box-color5{
+  background-color: darkgreen; 
+  display: inline; 
+}
